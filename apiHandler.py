@@ -1,6 +1,5 @@
 import json
 from time import time
-from urllib import response 
 import requests 
 import pandas as pd
 from tqdm import tqdm as progressRep

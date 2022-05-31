@@ -1,6 +1,4 @@
-import json
 import pandas as pd
-import requests
 import apiHandler as ah
 import trainerEngine as te
 import pandas as pd
